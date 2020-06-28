@@ -4,7 +4,7 @@ My face mask pattern.
 
 ## Attribution
 
-This mask is a minor modification of a [pattern
+This mask is a minor modification of a contoured [pattern
 (pdf)](https://daisymultifacetica.files.wordpress.com/2020/05/adult-large-2.pdf)
 by [Daisy Multifacetica](https://daisymultifacetica.com/freebies/). The
 modification I made is to make a little more room around the nose at the top
